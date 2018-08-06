@@ -13,3 +13,5 @@ Apollo Boost : GraphQL 클라이언트를 가지기 위해 모든걸 대신 셋�
 ## 추가설치
 
 yarn add react-helmet
+
+yarn add prop-types styled-components styled-reset
