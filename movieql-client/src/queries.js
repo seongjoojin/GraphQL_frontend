@@ -22,8 +22,9 @@ query getMovieDetails($movieId:Int!){
     genres
   }
   suggestions(id:$movieId){
-    medium_cover_image
+    id
     title
     rating
+    medium_cover_image
   }
 }`;
