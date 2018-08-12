@@ -1,6 +1,7 @@
 # GraphQL_frontend
 Apollo &amp; GraphQL로 웹앱 만들기
 
+https://academy.nomadcoders.co/p/build-a-movie-webapp-with-reactjs-apollo-and-graphql-kr
 
 ## 설치
 
