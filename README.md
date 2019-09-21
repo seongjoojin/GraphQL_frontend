@@ -1,4 +1,7 @@
 # GraphQL_frontend
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/seongjoojin/GraphQL_frontend.svg)](https://greenkeeper.io/)
+
 Apollo &amp; GraphQL로 웹앱 만들기
 
 https://academy.nomadcoders.co/p/build-a-movie-webapp-with-reactjs-apollo-and-graphql-kr
