@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "movieql-client/package.json"
+      ]
+    }
+  }
+}
